@@ -1,3 +1,7 @@
+#### Forked from
+
+https://github.com/react-native-linear-gradient/react-native-linear-gradient
+
 # react-native-linear-gradient
 
 A `<LinearGradient>` element for React Native
